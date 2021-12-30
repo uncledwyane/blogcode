@@ -61,4 +61,7 @@ exclude: null
 ignore: null
 theme: amazing
 deploy:
-  type: ''
+  type: git
+  repo: 
+    github: git@github.com:uncledwyane/blogcode.git
+  branch: master
