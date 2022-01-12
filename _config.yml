@@ -63,5 +63,5 @@ theme: amazing
 deploy:
   type: git
   repo: 
-    github: git@github.com:uncledwyane/blogcode.git
+    github: git@github.com:uncledwyane/uncledwyane.github.io.git
   branch: master

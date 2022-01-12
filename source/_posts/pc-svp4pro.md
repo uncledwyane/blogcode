@@ -1,5 +1,5 @@
 ---
-title: 使用SVP给视频插帧，看电影如丝半顺滑
+title: 使用SVP给视频插帧，看电影如丝般顺滑
 thumbnail: https://cdn.jsdelivr.net/gh/uncledwyane/imageBed/img/defu.jpg
 date: 2020-05-26 09:55:48
 tags: Windows
